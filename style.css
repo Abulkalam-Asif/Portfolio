@@ -902,6 +902,10 @@ Responsiveness
 		flex-direction: column;
 		width: 100%;
 	}
+	#aboutDiv3 .about_blots {
+	left: 0;
+	bottom: 0;
+	}
 	.btn {
 		font-size: 1.5rem;
 	}
