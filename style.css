@@ -391,7 +391,7 @@ Contact Styling
 */
 
 #contactSection {
-	background: url(contactImg.jpg) left center/cover no-repeat;
+	background: url(contactImg.jpg) center center/cover no-repeat;
 	padding: 5rem 2rem;
 	position: relative;
 	overflow-x: hidden;
