@@ -509,7 +509,7 @@ General Classes
 .sections_headings_divs {
 	position: relative;
 	width: fit-content;
-	-moz-width: fit-content;
+	width: -moz-fit-content;
 	margin: auto;
 }
 .sections_headings_divs::after {
