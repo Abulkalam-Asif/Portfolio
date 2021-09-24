@@ -535,7 +535,7 @@ General Classes
 	font-size: var(--about_divs_headings-font-size);
 	position: relative;
 	width: fit-content;
-	height: -moz-fit-content;
+	width: -moz-fit-content;
 	z-index: -1;
 }
 .about_divs_headings::after {
